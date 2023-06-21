@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eniozafe
 - 👀 I’m interested in  HTML 5, CSS 3, JavaScript, Angular, Node.JS, C#
-- 🌱 I’m currently learning  Desenvolvimento Frontend
+- 🌱 I’m currently learning  Desenvolvimento Backend & Frontend
 
 - 📫 How to reach me > https://linkedin.com/in/eniozavattaro/
 
